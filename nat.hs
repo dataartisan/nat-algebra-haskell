@@ -1,9 +1,13 @@
--- algebraic treatment of natural numbers
--- Konstantin Läufer
--- Comp 372/471: Programming Languages
--- Loyola University Chicago
--- http://laufer.cs.luc.edu/teaching/372
--- based on section two of Erik Meijer's banana paper
+{- 
+Algebraic treatment of natural numbers, based on chapter three of
+Richard Bird's Introduction to Functional Programming using Haskell
+(2nd ed.) and section two of Erik Meijer's banana paper
+
+Konstantin Läufer
+Comp 372/471: Programming Languages
+Loyola University Chicago
+http://laufer.cs.luc.edu/teaching/372
+-}
 
 import Test.HUnit
 import Data.List(unfoldr)

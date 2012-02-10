@@ -1,4 +1,6 @@
-This example is intended to convey several key ideas:
+This example, based on chapter three of Richard Bird's Introduction to
+Functional Programming using Haskell (2nd ed.) and section two of Erik
+Meijer's banana paper, is intended to convey several key ideas:
 
 - Definition of natural numbers as a very simple sublinear recursive
   algebraic data type. Think of Nat as structurally equivalent to List
